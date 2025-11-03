@@ -1,0 +1,113 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.beige {
+	position: absolute;
+	bottom: 0%;
+	left: 0%;
+	width: 100%;
+	height: 12%;
+	background-color: #D4CEC5;
+}
+
+.blue {
+	position: absolute;
+	top: 5%;
+	left: 4%;
+	width: 23%;
+	height:35%;
+	background-color: #97C5D8;
+}
+
+.red {
+	position: absolute;
+	top: 5%;
+	left: 29%;
+	width: 42%;
+	height: 35%;
+	background-color: #FC9F66;
+}
+
+.lightblue {
+	position: absolute;
+	top: 5%;
+	right: 4%;
+	width: 23%;
+	height: 35%;
+	background-color: #B8E0E3;
+}
+
+.yellow {
+	position: absolute;
+	top: 42%;
+	right: 4%;
+	width: 23%;
+	height: 8%;
+	background-color: #FAE397;
+}
+
+.red2 {
+	position: absolute;
+	bottom: 31.5%;
+	right: 4%;
+	width: 23%;
+	height: 16%;
+	background-color: #FC9F66;
+}
+
+.lightblue2 {
+	position: absolute;
+	bottom: 15.5%;
+	right: 4%;
+	width: 23%;
+	height: 16%;
+	background-color: #B8E0E3;
+}
+
+.darkblue {
+	position: absolute;
+	bottom: 15.5%;
+	right: 29%;
+	width: calc(42% / 2);
+	height: 32%;
+	background-color: #84A9CD;
+}
+
+
+.yellow2 {
+	position: absolute;
+	bottom: 15.5%;
+	left: 29%;
+	width: calc(42% / 2);
+	height: 32%;
+	background-color: #FAC357;
+}
+
+.red3 {
+	position: absolute;
+	bottom: 15.5%;
+	left: 4%;
+	width: 23%;
+	height: 16%;
+	background-color: #FC9F66;
+}
+
+.lightblue3 {
+	position: absolute;
+	bottom: 31.5%;
+	left: 4%;
+	width: 23%;
+	height: 16%;
+	background-color: #B8E0E3;
+}
+
+.yellow3 {
+	position: absolute;
+	top: 42%;
+	left: 4%;
+	width: 23%;
+	height: 8%;
+	background-color: #FAE39C;
+}
